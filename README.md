@@ -6,3 +6,5 @@ A simple project for demonstration purposes.
 <!-- Update .gitignore -->
 
 <!-- Update project description -->
+
+<!-- Update dependencies -->
