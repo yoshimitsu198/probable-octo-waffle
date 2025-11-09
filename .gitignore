@@ -13,3 +13,4 @@ build/
 # Add type hints
 # Add logging statements
 # Add function documentation
+# Add configuration options
