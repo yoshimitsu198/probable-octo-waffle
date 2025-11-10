@@ -19,3 +19,5 @@ if __name__ == "__main__":
 # Fix typos in documentation
 
 # Improve code readability
+
+# Add helper functions
