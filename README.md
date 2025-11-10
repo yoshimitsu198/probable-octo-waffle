@@ -10,3 +10,5 @@ A simple project for demonstration purposes.
 <!-- Update dependencies -->
 
 <!-- Update code style -->
+
+<!-- Update README examples -->
