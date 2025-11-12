@@ -12,3 +12,5 @@ A simple project for demonstration purposes.
 <!-- Update code style -->
 
 <!-- Update README examples -->
+
+<!-- Update comments -->
