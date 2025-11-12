@@ -21,3 +21,5 @@ if __name__ == "__main__":
 # Improve code readability
 
 # Add helper functions
+
+# Add validation logic
