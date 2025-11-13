@@ -14,3 +14,5 @@ A simple project for demonstration purposes.
 <!-- Update README examples -->
 
 <!-- Update comments -->
+
+<!-- Improve code organization -->
