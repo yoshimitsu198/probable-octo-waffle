@@ -16,3 +16,5 @@ A simple project for demonstration purposes.
 <!-- Update comments -->
 
 <!-- Improve code organization -->
+
+<!-- Refactor main function -->
