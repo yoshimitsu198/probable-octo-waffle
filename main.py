@@ -25,3 +25,5 @@ if __name__ == "__main__":
 # Add validation logic
 
 # Add utility functions
+
+# Add constants
