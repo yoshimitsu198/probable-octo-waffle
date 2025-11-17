@@ -18,3 +18,5 @@ A simple project for demonstration purposes.
 <!-- Improve code organization -->
 
 <!-- Refactor main function -->
+
+<!-- Improve code comments -->
