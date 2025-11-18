@@ -27,3 +27,5 @@ if __name__ == "__main__":
 # Add utility functions
 
 # Add constants
+
+# Add error messages
