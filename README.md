@@ -20,3 +20,5 @@ A simple project for demonstration purposes.
 <!-- Refactor main function -->
 
 <!-- Improve code comments -->
+
+<!-- Add code examples -->
