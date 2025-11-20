@@ -29,3 +29,5 @@ if __name__ == "__main__":
 # Add constants
 
 # Add error messages
+
+# Improve function signatures
