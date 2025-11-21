@@ -22,3 +22,5 @@ A simple project for demonstration purposes.
 <!-- Improve code comments -->
 
 <!-- Add code examples -->
+
+<!-- Add inline documentation -->
