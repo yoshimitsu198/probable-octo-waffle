@@ -24,3 +24,5 @@ A simple project for demonstration purposes.
 <!-- Add code examples -->
 
 <!-- Add inline documentation -->
+
+<!-- Add configuration file -->
