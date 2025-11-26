@@ -28,3 +28,5 @@ A simple project for demonstration purposes.
 <!-- Add configuration file -->
 
 <!-- Add test cases -->
+
+<!-- Add code documentation -->
