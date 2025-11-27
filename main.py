@@ -37,3 +37,5 @@ if __name__ == "__main__":
 # Improve code structure
 
 # Improve error messages
+
+# Improve code quality
