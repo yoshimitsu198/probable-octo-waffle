@@ -30,3 +30,5 @@ A simple project for demonstration purposes.
 <!-- Add test cases -->
 
 <!-- Add code documentation -->
+
+<!-- Add helper methods -->
