@@ -36,3 +36,5 @@ A simple project for demonstration purposes.
 <!-- Add logging configuration -->
 
 <!-- Add code improvements -->
+
+<!-- Add performance optimizations -->
