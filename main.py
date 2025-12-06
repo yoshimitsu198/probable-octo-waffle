@@ -47,3 +47,5 @@ if __name__ == "__main__":
 # Improve documentation clarity
 
 # Improve code maintainability
+
+# Improve error handling
