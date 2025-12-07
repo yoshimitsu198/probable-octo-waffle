@@ -40,3 +40,5 @@ A simple project for demonstration purposes.
 <!-- Add performance optimizations -->
 
 <!-- Add code refactoring -->
+
+<!-- Add code documentation -->
