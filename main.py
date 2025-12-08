@@ -49,3 +49,5 @@ if __name__ == "__main__":
 # Improve code maintainability
 
 # Improve error handling
+
+# Improve code comments
