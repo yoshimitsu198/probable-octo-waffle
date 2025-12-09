@@ -42,3 +42,5 @@ A simple project for demonstration purposes.
 <!-- Add code refactoring -->
 
 <!-- Add code documentation -->
+
+<!-- Add utility functions -->
