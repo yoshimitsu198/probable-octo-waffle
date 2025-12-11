@@ -44,3 +44,5 @@ A simple project for demonstration purposes.
 <!-- Add code documentation -->
 
 <!-- Add utility functions -->
+
+<!-- Add helper functions -->
