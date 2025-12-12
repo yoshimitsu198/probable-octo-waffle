@@ -53,3 +53,5 @@ if __name__ == "__main__":
 # Improve code comments
 
 # Improve code readability
+
+# Improve code organization
