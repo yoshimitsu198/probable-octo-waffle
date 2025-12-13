@@ -46,3 +46,5 @@ A simple project for demonstration purposes.
 <!-- Add utility functions -->
 
 <!-- Add helper functions -->
+
+<!-- Add type annotations -->
