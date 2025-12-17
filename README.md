@@ -50,3 +50,5 @@ A simple project for demonstration purposes.
 <!-- Add type annotations -->
 
 <!-- Add code improvements -->
+
+<!-- Add configuration options -->
