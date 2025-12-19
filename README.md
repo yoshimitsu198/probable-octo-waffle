@@ -52,3 +52,5 @@ A simple project for demonstration purposes.
 <!-- Add code improvements -->
 
 <!-- Add configuration options -->
+
+<!-- Add code refactoring -->
