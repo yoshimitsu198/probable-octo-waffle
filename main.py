@@ -61,3 +61,5 @@ if __name__ == "__main__":
 # Improve documentation
 
 # Improve code quality
+
+# Improve error messages
