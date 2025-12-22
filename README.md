@@ -56,3 +56,5 @@ A simple project for demonstration purposes.
 <!-- Add code refactoring -->
 
 <!-- Add code documentation -->
+
+<!-- Add helper methods -->
