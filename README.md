@@ -58,3 +58,5 @@ A simple project for demonstration purposes.
 <!-- Add code documentation -->
 
 <!-- Add helper methods -->
+
+<!-- Add code examples -->
