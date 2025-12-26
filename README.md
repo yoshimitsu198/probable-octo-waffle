@@ -60,3 +60,5 @@ A simple project for demonstration purposes.
 <!-- Add helper methods -->
 
 <!-- Add code examples -->
+
+<!-- Add inline documentation -->
