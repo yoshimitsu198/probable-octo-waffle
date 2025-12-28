@@ -71,3 +71,5 @@ if __name__ == "__main__":
 # Improve function signatures
 
 # Improve code formatting
+
+# Improve code structure
