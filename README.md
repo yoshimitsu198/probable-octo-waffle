@@ -64,3 +64,5 @@ A simple project for demonstration purposes.
 <!-- Add inline documentation -->
 
 <!-- Add configuration file -->
+
+<!-- Add final improvements -->
